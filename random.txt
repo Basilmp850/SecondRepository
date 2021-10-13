@@ -1,1 +1,2 @@
 This is some changes made in local repository.
+How are you doing.
